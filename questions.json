@@ -1,0 +1,568 @@
+{
+  "games": [
+    {
+      "questions": [
+        {
+          "question": "What is the first step in the FoW Sustainability Innovation Camp?",
+          "content": [
+            "Start with Why & Core Values",
+            "Lean Business Model Canvas",
+            "Value Proposition",
+            "Blue Ocean Strategy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What are the main components of the Lean Business Model Canvas?",
+          "content": [
+            "Mission & Vision Statements",
+            "Ideation & Design Thinking",
+            "Project Themes, Team Creation, and Project Selection",
+            "Value Proposition, Key Activities, and Key Resources"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Which strategy focuses on creating uncontested market space and making competition irrelevant?",
+          "content": [
+            "Sustainability Development Goals",
+            "Business & Money Modelling and Projections",
+            "Blue Ocean Strategy",
+            "How to Build a Professional Pitch and Presentation"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a value proposition?",
+          "content": [
+            "The financial projections of a startup",
+            "The unique and compelling benefit that a startup offers to its customers",
+            "The process of ideation and design thinking",
+            "The presentation skills of a startup founder"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the purpose of a mission statement?",
+          "content": [
+            "To define the long-term goals and aspirations of a startup",
+            "To outline the key activities and resources of a startup",
+            "To analyze the market potential and competition",
+            "To present the financial projections and revenue model"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the key focus of the Blue Ocean Strategy?",
+          "content": [
+            "Analyzing market trends and consumer behavior",
+            "Developing a comprehensive business plan",
+            "Creating new market space and reducing competition",
+            "Building a strong team and organizational culture"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the purpose of business and money modeling?",
+          "content": [
+            "To create an effective pitch and presentation",
+            "To identify sustainable development goals",
+            "To project the financial performance and profitability of a startup",
+            "To facilitate ideation and design thinking"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a key element in building a professional pitch and presentation?",
+          "content": [
+            "Start with Why & Core Values",
+            "Effective storytelling and communication",
+            "Analyzing market trends and competition",
+            "Creating a detailed business plan"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the first step in the process of ideation and design thinking?",
+          "content": [
+            "Project Themes, Team Creation, and Project Selection",
+            "Value Proposition and Mission Statements",
+            "Sustainability Development Goals",
+            "Start with Why & Core Values"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the primary goal of the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To develop a profitable business model",
+            "To create social and environmental impact",
+            "To secure funding from investors",
+            "To analyze market trends and competition"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What are the main themes addressed in the Sustainability Development Goals?",
+          "content": [
+            "Ideation and design thinking",
+            "Team creation and project selection",
+            "Market analysis and competition",
+            "Poverty, climate action, and sustainable development"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Which tool is used to map a startup's key activities, resources, and partners?",
+          "content": [
+            "Lean Business Model Canvas",
+            "Value Proposition",
+            "Mission & Vision Statements",
+            "Blue Ocean Strategy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of project selection in the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To determine the market potential of each project",
+            "To identify key team members and assign roles",
+            "To ensure alignment with the Sustainability Development Goals",
+            "To develop a detailed business plan"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the significance of core values in a startup?",
+          "content": [
+            "To attract investors and secure funding",
+            "To differentiate the startup from competitors",
+            "To project the financial performance of the startup",
+            "To analyze market trends and consumer behavior"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the key focus of the ideation process?",
+          "content": [
+            "Creating a strong team and organizational culture",
+            "Identifying sustainable development goals",
+            "Developing a comprehensive business plan",
+            "Generating innovative ideas and solutions"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "What is the role of the value proposition in a startup?",
+          "content": [
+            "To project the financial performance and revenue model",
+            "To outline the key activities and resources",
+            "To define the unique and compelling benefit to customers",
+            "To facilitate ideation and design thinking"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary purpose of the mission statement?",
+          "content": [
+            "To create a detailed business plan",
+            "To analyze market trends and competition",
+            "To define the long-term goals and aspirations of a startup",
+            "To project the financial performance and profitability"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the key element in the Blue Ocean Strategy?",
+          "content": [
+            "Reducing competition and creating new market space",
+            "Analyzing market trends and consumer behavior",
+            "Building a strong team and organizational culture",
+            "Developing a comprehensive business plan"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of business modeling and projections?",
+          "content": [
+            "To facilitate ideation and design thinking",
+            "To identify sustainable development goals",
+            "To project the financial performance and profitability",
+            "To create an effective pitch and presentation"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a key aspect of building a professional pitch and presentation?",
+          "content": [
+            "Start with Why & Core Values",
+            "Effective storytelling and communication",
+            "Analyzing market trends and competition",
+            "Creating a detailed business plan"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the first step in the ideation and design thinking process?",
+          "content": [
+            "Project Themes, Team Creation, and Project Selection",
+            "Value Proposition and Mission Statements",
+            "Sustainability Development Goals",
+            "Start with Why & Core Values"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the primary goal of the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To develop a profitable business model",
+            "To create social and environmental impact",
+            "To secure funding from investors",
+            "To analyze market trends and competition"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What are the main themes addressed in the Sustainability Development Goals?",
+          "content": [
+            "Ideation and design thinking",
+            "Team creation and project selection",
+            "Market analysis and competition",
+            "Poverty, climate action, and sustainable development"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Which tool is used to map a startup's key activities, resources, and partners?",
+          "content": [
+            "Lean Business Model Canvas",
+            "Value Proposition",
+            "Mission & Vision Statements",
+            "Blue Ocean Strategy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of project selection in the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To determine the market potential of each project",
+            "To identify key team members and assign roles",
+            "To ensure alignment with the Sustainability Development Goals",
+            "To develop a detailed business plan"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the significance of core values in a startup?",
+          "content": [
+            "To attract investors and secure funding",
+            "To differentiate the startup from competitors",
+            "To project the financial performance of the startup",
+            "To analyze market trends and consumer behavior"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the key focus of the ideation process?",
+          "content": [
+            "Creating a strong team and organizational culture",
+            "Identifying sustainable development goals",
+            "Developing a comprehensive business plan",
+            "Generating innovative ideas and solutions"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "What is the role of the value proposition in a startup?",
+          "content": [
+            "To project the financial performance and revenue model",
+            "To outline the key activities and resources",
+            "To define the unique and compelling benefit to customers",
+            "To facilitate ideation and design thinking"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary purpose of the mission statement?",
+          "content": [
+            "To create a detailed business plan",
+            "To analyze market trends and competition",
+            "To define the long-term goals and aspirations of a startup",
+            "To project the financial performance and profitability"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the key element in the Blue Ocean Strategy?",
+          "content": [
+            "Reducing competition and creating new market space",
+            "Analyzing market trends and consumer behavior",
+            "Building a strong team and organizational culture",
+            "Developing a comprehensive business plan"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of business modeling and projections?",
+          "content": [
+            "To facilitate ideation and design thinking",
+            "To identify sustainable development goals",
+            "To project the financial performance and profitability",
+            "To create an effective pitch and presentation"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a key aspect of building a professional pitch and presentation?",
+          "content": [
+            "Start with Why & Core Values",
+            "Effective storytelling and communication",
+            "Analyzing market trends and competition",
+            "Creating a detailed business plan"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the first step in the ideation and design thinking process?",
+          "content": [
+            "Project Themes, Team Creation, and Project Selection",
+            "Value Proposition and Mission Statements",
+            "Sustainability Development Goals",
+            "Start with Why & Core Values"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the primary goal of the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To develop a profitable business model",
+            "To create social and environmental impact",
+            "To secure funding from investors",
+            "To analyze market trends and competition"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What are the main themes addressed in the Sustainability Development Goals?",
+          "content": [
+            "Ideation and design thinking",
+            "Team creation and project selection",
+            "Market analysis and competition",
+            "Poverty, climate action, and sustainable development"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Which tool is used to map a startup's key activities, resources, and partners?",
+          "content": [
+            "Lean Business Model Canvas",
+            "Value Proposition",
+            "Mission & Vision Statements",
+            "Blue Ocean Strategy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of project selection in the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To determine the market potential of each project",
+            "To identify key team members and assign roles",
+            "To ensure alignment with the Sustainability Development Goals",
+            "To develop a detailed business plan"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the significance of core values in a startup?",
+          "content": [
+            "To attract investors and secure funding",
+            "To differentiate the startup from competitors",
+            "To project the financial performance of the startup",
+            "To analyze market trends and consumer behavior"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the key focus of the ideation process?",
+          "content": [
+            "Creating a strong team and organizational culture",
+            "Identifying sustainable development goals",
+            "Developing a comprehensive business plan",
+            "Generating innovative ideas and solutions"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "What is the role of the value proposition in a startup?",
+          "content": [
+            "To project the financial performance and revenue model",
+            "To outline the key activities and resources",
+            "To define the unique and compelling benefit to customers",
+            "To facilitate ideation and design thinking"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary purpose of the mission statement?",
+          "content": [
+            "To create a detailed business plan",
+            "To analyze market trends and competition",
+            "To define the long-term goals and aspirations of a startup",
+            "To project the financial performance and profitability"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the key element in the Blue Ocean Strategy?",
+          "content": [
+            "Reducing competition and creating new market space",
+            "Analyzing market trends and consumer behavior",
+            "Building a strong team and organizational culture",
+            "Developing a comprehensive business plan"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of business modeling and projections?",
+          "content": [
+            "To facilitate ideation and design thinking",
+            "To identify sustainable development goals",
+            "To project the financial performance and profitability",
+            "To create an effective pitch and presentation"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a key aspect of building a professional pitch and presentation?",
+          "content": [
+            "Start with Why & Core Values",
+            "Effective storytelling and communication",
+            "Analyzing market trends and competition",
+            "Creating a detailed business plan"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the first step in the ideation and design thinking process?",
+          "content": [
+            "Project Themes, Team Creation, and Project Selection",
+            "Value Proposition and Mission Statements",
+            "Sustainability Development Goals",
+            "Start with Why & Core Values"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the primary goal of the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To develop a profitable business model",
+            "To create social and environmental impact",
+            "To secure funding from investors",
+            "To analyze market trends and competition"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What are the main themes addressed in the Sustainability Development Goals?",
+          "content": [
+            "Ideation and design thinking",
+            "Team creation and project selection",
+            "Market analysis and competition",
+            "Poverty, climate action, and sustainable development"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Which tool is used to map a startup's key activities, resources, and partners?",
+          "content": [
+            "Lean Business Model Canvas",
+            "Value Proposition",
+            "Mission & Vision Statements",
+            "Blue Ocean Strategy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of project selection in the FoW Sustainability Innovation Camp?",
+          "content": [
+            "To determine the market potential of each project",
+            "To identify key team members and assign roles",
+            "To ensure alignment with the Sustainability Development Goals",
+            "To develop a detailed business plan"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the significance of core values in a startup?",
+          "content": [
+            "To attract investors and secure funding",
+            "To differentiate the startup from competitors",
+            "To project the financial performance of the startup",
+            "To analyze market trends and consumer behavior"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "What is the key focus of the ideation process?",
+          "content": [
+            "Creating a strong team and organizational culture",
+            "Identifying sustainable development goals",
+            "Developing a comprehensive business plan",
+            "Generating innovative ideas and solutions"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "What is the role of the value proposition in a startup?",
+          "content": [
+            "To project the financial performance and revenue model",
+            "To outline the key activities and resources",
+            "To define the unique and compelling benefit to customers",
+            "To facilitate ideation and design thinking"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary purpose of the mission statement?",
+          "content": [
+            "To create a detailed business plan",
+            "To analyze market trends and competition",
+            "To define the long-term goals and aspirations of a startup",
+            "To project the financial performance and profitability"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the key element in the Blue Ocean Strategy?",
+          "content": [
+            "Reducing competition and creating new market space",
+            "Analyzing market trends and consumer behavior",
+            "Building a strong team and organizational culture",
+            "Developing a comprehensive business plan"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "What is the purpose of business modeling and projections?",
+          "content": [
+            "To facilitate ideation and design thinking",
+            "To identify sustainable development goals",
+            "To project the financial performance and profitability",
+            "To create an effective pitch and presentation"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is a key aspect of building a professional pitch and presentation?",
+          "content": [
+            "Start with Why & Core Values",
+            "Effective storytelling and communication",
+            "Analyzing market trends and competition",
+            "Creating a detailed business plan"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}
